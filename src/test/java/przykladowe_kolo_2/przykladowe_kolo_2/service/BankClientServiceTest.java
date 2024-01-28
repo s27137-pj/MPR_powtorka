@@ -7,7 +7,7 @@ import przykladowe_kolo_2.przykladowe_kolo_2.model.BankClient;
 import przykladowe_kolo_2.przykladowe_kolo_2.repository.BankClientRepository;
 
 import static org.junit.jupiter.api.Assertions.*;
-//dff
+//dffretter
 class BankClientServiceTest {
     private static BankClientService bankClientService;
 
